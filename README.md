@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React native | Javascript**
+- 💬 Ask me about **React | Javascript**
 
 - 📫 How to reach me **sharmahritik2002@gmail.com**
+
+- ⚡ Fun fact **I think I am talkative , but I am not!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
