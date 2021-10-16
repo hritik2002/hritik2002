@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sharmahritik2002@gmail.com**
 
-- ⚡ Fun fact **I think I am talkative , but I am not!**
+- ⚡**Learn everyday!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
