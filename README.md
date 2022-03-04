@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mumbai India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
-- 🔭 I’m currently working on **React | Redux | Js** 
+- 🔭 I’m currently working on **React | Redux | Js** atMosaic Wellness as a frontend intern.
 
 - 🌱 I’m currently learning **JS**
 
