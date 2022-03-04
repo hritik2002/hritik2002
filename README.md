@@ -8,7 +8,10 @@
 
 - 💬 Ask me about **React | Redux | Javascript** 
 
-- 📫 How to reach me **sharmahritik2002@gmail.com** , Linkedin : **https://www.linkedin.com/in/hritik-sharma-05677b200/**
+- 📫 How to reach me **sharmahritik2002@gmail.com**
+- Linkedin : **https://www.linkedin.com/in/hritik-sharma-05677b200/**
+- CodeWars : **https://www.codewars.com/users/hritik2002**
+- Stackoverflow : **https://stackoverflow.com/users/17599660/hritik-sharma**
 
 - ⚡**Learn everyday!**
 
