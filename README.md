@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mumbai India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
-- 🔭 I’m currently working on Data structures and algorithms.
+- 🔭 I’m currently learning Data structures and algorithms.
 -  Ex-fronted intern at Mosaic Wellness.
 - 🌱 Tech stack that I love working in : **Javascript**.
 
