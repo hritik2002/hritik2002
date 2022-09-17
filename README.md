@@ -9,7 +9,6 @@
 - 💬 Ask me about **React | Redux | Javascript** 
 
 - 📫 How to reach me **sharmahritik2002@gmail.com**
-- Linkedin : **https://www.linkedin.com/in/hritik2002/**
 - CodeWars : **https://www.codewars.com/users/hritik2002**
 - Stackoverflow : **https://stackoverflow.com/users/15116207/hritik-sharma**
 
