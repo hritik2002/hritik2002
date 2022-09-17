@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritik Sharma</h1>
-<h3 align="center">A passionate frontend developer from Mumbai India</h3>
+<h3 align="center">A passionate website developer from Mumbai India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
 - 🔭 I’m currently learning Data structures and algorithms.
