@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
 - 🔭 I’m currently learning Data structures and algorithms.
--  Ex- SDE intern at Cohyk,Mosaic Wellness.
+-  Ex- SDE intern at Cohyk, Mosaic Wellness.
 - 🌱 Tech stack that I love working in : **Javascript**.
 
 - 💬 Ask me about **React | Redux | Javascript** 
