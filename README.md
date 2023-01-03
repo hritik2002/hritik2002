@@ -29,6 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritik2002&show_icons=true&locale=en" alt="hritik2002" /></p>
 
 
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hritik2002&bg_color=000000&color=00ff11&line=1dfa00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
