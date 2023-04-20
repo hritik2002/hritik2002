@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hritik Sharma</h1>
-<h3 align="center">A passionate developer from Mumbai India</h3>
+<h3 align="center">A passionate engineer from Mumbai, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
-- 🔭 I’m currently learning Data structures and algorithms.
--  Ex- SDE intern at Cohyk, Mosaic Wellness.
+- 🔭 Building and breaking tech products.
+-  Loves experimenting on exciting ideas.
 - 🌱 Tech stack that I love working in : **Javascript**.
 
-- 💬 Ask me about **React | Redux | Javascript** 
+- 💬 Ask me about **React | Javascript** 
 
 - 📫 How to reach me **sharmahritik2002@gmail.com**
 - CodeWars : **https://www.codewars.com/users/hritik2002**
