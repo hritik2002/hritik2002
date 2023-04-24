@@ -6,10 +6,10 @@
 -  Loves experimenting on exciting ideas.
 - 🌱 Tech stack that I love working in : **Javascript**.
 
-- 💬 Let's connect <a href="https://linkedin.in/hritik2002" target="_blank">@linkedin</a> 
+- 💬 Let's connect <a href="https://linkedin.in/hritik2002" target="_blank">**@linkedin**</a> 
 
 - 📫 How to reach me **sharmahritik2002@gmail.com**
-- Stackoverflow : <a href="https://stackoverflow.com/users/15116207/hritik-sharma" target="_blank">@StackoverFlow</a>
+- Stackoverflow : <a href="https://stackoverflow.com/users/15116207/hritik-sharma" target="_blank">**@StackoverFlow**</a>
 
 - ⚡**Learn everyday!**
 
