@@ -2,7 +2,7 @@
 <h3 align="center">A passionate engineer from Mumbai, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
-- 🔭 Building tech at <a href="https://snoolink.me"> @snoolink</a>
+- 🔭 Building tech at <a href="https://snoolink.me" target="_blank" > @snoolink</a>
 -  Loves experimenting on exciting ideas.
 - 🌱 Tech stack that I love working in : **Javascript**.
 
