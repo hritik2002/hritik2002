@@ -2,7 +2,8 @@
 <h3 align="center">A passionate engineer from Mumbai, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
-- 👷‍♀️ SDE intern at @PhysicsWallah, Ex - @MosaicWellness, @Cohyk, @DecoverHQ
+- 👷‍♀️ SDE intern at @PhysicsWallah
+- 👷‍♀️ Ex - @MosaicWellness, @Cohyk, @DecoverHQ
 - 🔭 Building tech at <a href="https://snoolink.me" target="_blank" >**@snoolink**</a>
 - ❤️ Loves experimenting on exciting ideas.
 - 🌱 Tech stack that I love working in : **Javascript**.
