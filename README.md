@@ -3,7 +3,7 @@ I am Hritik Sharma, a student developer from Thadomal Shahani (Mumbai). I am an 
 
 📫 You can reach to me through:
 
-LinkedIn : <a href="https://linkedin.com/in/hritik2002">Hritik Sharma</a>
-Twitter : <a href="https://twitter.com/Hritik_86">Hritik_86</a>
-Email : sharmahritik2002@gmail.com
-Stackoveflow Profile : <a href="https://stackoverflow.com/users/15116207/hritik-sharma">hritik-sharma</a>
+- LinkedIn : <a href="https://linkedin.com/in/hritik2002">Hritik Sharma</a>
+- Twitter : <a href="https://twitter.com/Hritik_86">Hritik_86</a>
+- Email : sharmahritik2002@gmail.com
+- Stackoveflow Profile : <a href="https://stackoverflow.com/users/15116207/hritik-sharma">hritik-sharma</a>
