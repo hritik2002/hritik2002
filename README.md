@@ -1,5 +1,5 @@
 <h2>Hi there everyone 👋</h2>
-I am Hritik Sharma, a student developer from Thadomal Shahani (Mumbai). I am an Software Developer and an active stackoverflow contributor who loves to work on full stack technologies. Do check out my projects 😁
+I am Hritik Sharma, software engineer working at (Headout.com)[www.headout.com], an active stackoverflow contributor who loves to work on full stack technologies. Do check out my projects 😁
 
 📫 You can reach to me through:
 
