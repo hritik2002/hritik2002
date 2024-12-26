@@ -6,7 +6,7 @@ I am Hritik Sharma, a Software Engineer working at <a href="https://www.headout.
 
 - 💻 I specialize in full stack development and have experience with a variety of languages and frameworks.
 - 📚 I’m currently working on my own idea (cool side project), looking for folks who can collaborate on it.
-- Creator of [Bhagavadgita.tech](https://www.bhagavadgita.tech)
+- Building [Bhagavadgita.tech](https://www.bhagavadgita.tech)
 
 ## 🔧 Technologies & Tools
 
