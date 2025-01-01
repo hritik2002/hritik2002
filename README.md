@@ -25,7 +25,7 @@ I am Hritik Sharma, a Software Engineer working at <a href="https://www.headout.
 
 ## 📫 How to Reach Me
 
-- Portfolio : [hritiksharma.in](https://hritiksharma.in)
+- Portfolio : [hritik.me](https://www.hritik.me)
 - LinkedIn : [Hritik Sharma](https://linkedin.com/in/hritik2002)
 - Twitter : [Hritik_86](https://twitter.com/Hritik_86)
 - Email : sharmahritik2002@gmail.com
