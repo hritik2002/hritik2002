@@ -1,6 +1,8 @@
 <h2>Hi there everyone 👋</h2>
 
-I am Hritik Sharma, a Software Engineer working at <a href="https://www.headout.com">Headout.com</a>. I am an active Stack Overflow contributor who loves to work on full stack technologies. Do check out my projects 😁
+I am Hritik Sharma, a Software Engineer working at <a href="https://www.headout.com">Headout.com</a>. I am an active Stack Overflow contributor who loves to work on full stack technologies. Do check out my projects 😁.
+
+Here's my [resume](https://www.hritik.me/resume) for a quick reference of my previous work.
 
 ## 🌟 About Me
 
