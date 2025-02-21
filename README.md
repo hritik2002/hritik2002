@@ -20,6 +20,8 @@ I am Hritik Sharma, a Software Engineer working at <a href="https://www.headout.
 
 ## 🚀 Top Projects
 
+[staygreen - keeping your GitHub graph consistently green by pushing summary of you local changes](https://staygreen.vercel.app/)
+
 [review-code](https://github.com/hritik2002/review-code)
 
 [Youtube transcriber-summarizer](https://github.com/hritik2002/youtube-transcriber-summarizer)
