@@ -8,7 +8,7 @@ Here's my [resume](https://www.hritik.me/resume) for a quick reference of my pre
 
 - 💻 I specialize in full stack development and have experience with a variety of languages and frameworks.
 - 📚 I’m currently working on my own idea (cool side project), looking for folks who can collaborate on it.
-- Building [Bhagavadgita.tech](https://www.bhagavadgita.tech)
+- Built [Bhagavadgita.tech](https://www.bhagavadgita.tech)
 
 ## 🔧 Technologies & Tools
 
