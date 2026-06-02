@@ -1,6 +1,6 @@
 <h2>Hey, I'm Hritik 👋</h2>
 
-Software Engineer at [Dream11](https://www.dream11.com/). I build things at scale during the day and dig into JavaScript internals at night.
+Software Engineer at [Dream11](https://www.dream11.com/). I build things.
 
 Here's my [resume](https://www.hritik.me/resume) if you want the full picture.
 
