@@ -31,7 +31,7 @@ React DevTools + Git blame, for plain objects.
 
 - Full stack engineer — JavaScript, Python, React, Node.js
 - Interested in runtime internals, developer tooling, and building things that teach you something
-- Built [Bhagavadgita.tech](https://www.bhagavadgita.tech) — because not every side project has to be SaaS
+- Built [Bhagavadgita.tech](https://www.bhagavadgita.tech)
 - Looking for collaborators on my current idea — reach out if you like building in public
 
 ---
@@ -54,7 +54,7 @@ React DevTools + Git blame, for plain objects.
 | | |
 |---|---|
 | **[WhyNotJS](https://github.com/hritik2002/whynotjs)** | Proxy-based object change tracking with call-site attribution · [npm](https://www.npmjs.com/package/whynotjs) · [blog](https://www.hritik.me/posts/17-whynotjs) |
-| **[Bhagavadgita.tech](https://www.bhagavadgita.tech)** | Clean reading experience for the Bhagavad Gita |
+| **[Bhagavadgita.tech](https://www.bhagavadgita.tech)** | Merges Bhagavadgita with AI  |
 | **[Staygreen](https://staygreen.vercel.app/)** | — |
 | **[review-code](https://github.com/hritik2002/review-code)** | AI-powered code review |
 | **[Youtube transcriber-summarizer](https://github.com/hritik2002/youtube-transcriber-summarizer)** | Transcribe and summarize any YouTube video |
