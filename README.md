@@ -1,6 +1,6 @@
 # Hritik Sharma
 
-I am a software engineer currently working at Dream11, where I build experimentation infrastructure, analytics SDKs, and frontend systems that support products used by millions of users.
+I am a software engineer currently working at Dream11, where I build experimentation & analytics SDKs, and frontend systems that support products used by millions of users.
 
 My interests lie in search, retrieval systems, developer tooling, distributed systems, and understanding how software works beneath its abstractions.
 
