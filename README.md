@@ -16,10 +16,10 @@ Outside work, I build and publish side projects as a way to learn.
 
 Some recent projects include:
 
-* **Snoolink** — search and annotation infrastructure for video.
-* **WhyNotJS** — a runtime instrumentation library that explains why JavaScript objects changed.
+* [**Snoolink**](http://app.snoolink.com/) — search and annotation infrastructure for video.
+* [**Safarmonk**](https://chromewebstore.google.com/detail/safarmonk/ooodhdmbhgcfpedeiigaijglpapmhbfh) — an AI-assisted travel research companion built on retrieval and LLM workflows.
+* [**WhyNotJS**](https://www.npmjs.com/package/whynotjs) — a runtime instrumentation library that explains why JavaScript objects changed.
 * **Bhagavadgita.tech** — an AI-powered semantic search experience for the Bhagavad Gita.
-* **Safarmonk** — an AI-assisted travel research companion built on retrieval and LLM workflows.
 
 I occasionally write about software engineering, system design, and things I learn while building:
 
